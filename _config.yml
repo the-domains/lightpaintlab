@@ -1,0 +1,28 @@
+name: Light Paint Lab
+favicon: null
+layout_spectrum: 0.911448577651754
+typography_spectrum: 0.2412284689489752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5590758176986128
+  lightness: 0.04028151440434158
+  saturation: 0.184858723776415
+  rhythmicContrast: 0.7659065690822899
+purpose: []
